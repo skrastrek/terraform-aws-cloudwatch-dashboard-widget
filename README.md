@@ -1,1 +1,1 @@
-# terraform-modules-aws-cloudwatch-dashboard-widget
+# AWS CloudWatch Dashboard Widget Terraform Module
