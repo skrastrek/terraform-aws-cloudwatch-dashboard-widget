@@ -12,7 +12,7 @@ locals {
 
     properties = {
       title    = var.title
-      region   = data.aws_region.current.id
+      region   = data.aws_region.current.region
       period   = var.period
       view     = "timeSeries"
       stacked  = true
